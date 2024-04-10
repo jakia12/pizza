@@ -7,7 +7,10 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   /* background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('./images/uk-flag.jpg') ; */
-  background-image: url('./images/uk-flag.jpg');
+  background-image: url("./images/flag.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 .elementor-3325
   .elementor-element.elementor-element-7eccf66
