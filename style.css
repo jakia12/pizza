@@ -6,8 +6,8 @@
   .elementor-element.elementor-element-7eccf66
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  /* background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('./images/uk-flag.jpg') ; */
-  background-image: url("./images/ukra.jpg");
+  background: linear-gradient(to right, #8f50f9, #4fa3c5, #14f194 ) ;
+  /* background-image: url("./images/ukra.jpg"); */
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
